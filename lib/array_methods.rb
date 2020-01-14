@@ -20,6 +20,8 @@ end
 
 def using_first(array)
 
+first.array 
+
 end
 
 def using_last(array)

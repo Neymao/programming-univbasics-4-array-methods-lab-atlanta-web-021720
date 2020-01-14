@@ -7,6 +7,8 @@ end
 end
 
 def using_sort(array)
+  
+  sort.array
 
 end
 
